@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+imageio-ffmpeg
+azure-cognitiveservices-speech
+openai
+moviepy
+pandas
+networkx
+matplotlib
+pillow
+streamlit-option-menu
+
+
